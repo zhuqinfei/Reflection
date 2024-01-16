@@ -1,0 +1,6 @@
+D:\c#练习项目\Reflection\SqlServerDB\bin\Debug\SqlServerDB.dll
+D:\c#练习项目\Reflection\SqlServerDB\bin\Debug\SqlServerDB.pdb
+D:\c#练习项目\Reflection\SqlServerDB\obj\Debug\SqlServerDB.csproj.CoreCompileInputs.cache
+D:\c#练习项目\Reflection\SqlServerDB\obj\Debug\SqlServerDB.dll
+D:\c#练习项目\Reflection\SqlServerDB\obj\Debug\SqlServerDB.pdb
+D:\c#练习项目\Reflection\SqlServerDB\obj\Debug\SqlServerDB.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\c#练习项目\Reflection\Reflection\bin\Debug\Reflection.exe.config
+D:\c#练习项目\Reflection\Reflection\bin\Debug\Reflection.exe
+D:\c#练习项目\Reflection\Reflection\bin\Debug\Reflection.pdb
+D:\c#练习项目\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\c#练习项目\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\c#练习项目\Reflection\Reflection\obj\Debug\Reflection.exe
+D:\c#练习项目\Reflection\Reflection\obj\Debug\Reflection.pdb
+D:\c#练习项目\Reflection\Reflection\bin\Debug\SqlServerDB.dll
+D:\c#练习项目\Reflection\Reflection\bin\Debug\SqlServerDB.pdb
+D:\c#练习项目\Reflection\Reflection\obj\Debug\Reflection.csproj.CopyComplete
